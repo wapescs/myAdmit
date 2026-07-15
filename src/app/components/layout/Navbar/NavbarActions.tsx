@@ -5,9 +5,11 @@ import { Search, Bell, Moon, Sun, User } from "lucide-react";
 import { Btn } from "@/app/components/common/Btn";
 import { useUserState } from "@/app/providers/UserStateProvider";
 import { useTheme } from "@/app/providers/ThemeProvider";
+import { useAccess } from "@/lib/access/AccessProvider";
 
 export function NavbarActions() {
-  const { userState, setUserState } = useUserState();
+  const { userState } = useUserState();
+  const { openLoginModal } = useAccess();
   const { isDark, toggleTheme } = useTheme();
 
   return (
@@ -24,7 +26,7 @@ export function NavbarActions() {
       </button>
       {userState === "anonymous" ? (
         <>
-          <button onClick={() => setUserState("logged-in")} className="px-4 py-2 text-sm font-medium text-[#333333] hover:text-[#8B2626] transition-colors">Login</button>
+          <button onClick={openLoginModal} className="px-4 py-2 text-sm font-medium text-[#333333] hover:text-[#8B2626] transition-colors">Login</button>
           <Link href="/booking"><Btn>Book Counseling</Btn></Link>
         </>
       ) : (

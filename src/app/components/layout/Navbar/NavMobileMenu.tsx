@@ -5,10 +5,12 @@ import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
 import { NAV_LINKS } from "@/constants/navigation";
 import { useUserState } from "@/app/providers/UserStateProvider";
+import { useAccess } from "@/lib/access/AccessProvider";
 
 export function NavMobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
   const pathname = usePathname();
-  const { userState, setUserState } = useUserState();
+  const { userState } = useUserState();
+  const { openLoginModal } = useAccess();
 
   return (
     <AnimatePresence>
@@ -27,7 +29,7 @@ export function NavMobileMenu({ open, onClose }: { open: boolean; onClose: () =>
             <div className="pt-3 border-t border-[#E8DDD0] flex flex-col gap-2">
               {userState === "anonymous" ? (
                 <>
-                  <button onClick={() => { setUserState("logged-in"); onClose(); }} className="w-full py-3 text-sm font-semibold text-[#333333] border border-[#E8DDD0] rounded-xl hover:bg-[#FAF6EE]">Login</button>
+                  <button onClick={() => { openLoginModal(); onClose(); }} className="w-full py-3 text-sm font-semibold text-[#333333] border border-[#E8DDD0] rounded-xl hover:bg-[#FAF6EE]">Login</button>
                   <Link href="/booking" onClick={onClose} className="w-full py-3 text-sm font-semibold text-white bg-[#8B2626] rounded-xl hover:bg-[#6E1E1E] text-center">Book Counseling</Link>
                 </>
               ) : (

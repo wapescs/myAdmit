@@ -7,7 +7,7 @@ export function FooterBrand() {
     <div>
       <div className="flex items-center gap-2.5 mb-4">
         <div className="w-9 h-9 rounded-xl bg-[#8B2626] flex items-center justify-center"><GraduationCap size={17} className="text-white" /></div>
-        <span className="text-xl font-bold" style={serif}>EduPath</span>
+        <span className="text-xl font-bold" style={serif}>MyAdmit</span>
       </div>
       <p className="text-white/55 text-sm leading-relaxed mb-6">
         AI-powered abroad education counseling platform helping students achieve their international university dreams.

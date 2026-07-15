@@ -5,7 +5,11 @@ import { useState } from "react";
 export function useBookingForm() {
   const [selDate, setSelDate] = useState(15);
   const [selTime, setSelTime] = useState("10:00 AM");
-  const [selCounselor, setSelCounselor] = useState(0);
+  const [isSubmitted, setIsSubmitted] = useState(false);
 
-  return { selDate, setSelDate, selTime, setSelTime, selCounselor, setSelCounselor };
+  function submit() {
+    setIsSubmitted(true);
+  }
+
+  return { selDate, setSelDate, selTime, setSelTime, isSubmitted, submit };
 }

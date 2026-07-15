@@ -5,7 +5,7 @@ import type { NavLink } from "@/types/navigation.types";
 export const NAV_LINKS: NavLink[] = [
   { label: "Home", href: "/" },
   { label: "Universities", href: "/comparison" },
-  { label: "Scholarships", href: "/scholarships" },
+  { label: "Scholarships (DEV)", href: "/scholarships" }, // TODO: Remove this after development
   { label: "AI Advisor", href: "/chat" },
   { label: "Counseling", href: "/booking" },
 ];

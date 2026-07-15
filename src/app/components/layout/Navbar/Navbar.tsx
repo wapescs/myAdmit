@@ -25,7 +25,7 @@ export function Navbar() {
             <GraduationCap size={18} className="text-white" />
           </div>
           <span className="text-xl font-bold text-[#333333] dark:text-[#F5EDE0] tracking-tight" style={serif}>
-            Edu<span className="text-[#8B2626]">Path</span>
+            My<span className="text-[#8B2626]">Admit</span>
           </span>
         </Link>
 

@@ -20,7 +20,7 @@ export function CTABanner() {
             <Pill variant="gold"><Sparkles size={12} />Limited spots available</Pill>
             <h2 className="mt-5 text-3xl md:text-5xl font-bold" style={serif}>Start Your Journey Today</h2>
             <p className="mt-4 text-white/75 text-lg max-w-xl mx-auto">
-              Join 10,000+ students who've achieved their dream of studying abroad with EduPath's expert AI guidance.
+              Join 10,000+ students who've achieved their dream of studying abroad with MyAdmit's expert AI guidance.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/profile" className="px-8 py-4 bg-white text-[#8B2626] font-bold rounded-xl hover:bg-[#FAF6EE] transition-all text-sm">

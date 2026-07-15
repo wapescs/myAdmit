@@ -19,7 +19,7 @@ export function AIAdvisorShowcase() {
               <div>"What universities should I apply to with 85% marks and 7.0 IELTS?"</div>
             </div>
             <div className="bg-white rounded-xl p-3.5 text-sm text-[#333333]">
-              <div className="text-[#8B2626] text-xs font-bold mb-1">EduPath AI</div>
+              <div className="text-[#8B2626] text-xs font-bold mb-1">MyAdmit AI</div>
               <div>Based on your profile, I recommend University of Toronto (safe), University of Melbourne (match), and University of Edinburgh (reach)...</div>
             </div>
           </div>

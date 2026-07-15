@@ -29,7 +29,7 @@ export function ChatInputBar({
           <Send size={17} />
         </button>
       </div>
-      <p className="text-[10px] text-center text-[#999] mt-2">EduPath AI may make mistakes. Verify important information with official sources.</p>
+      <p className="text-[10px] text-center text-[#999] mt-2">MyAdmit AI may make mistakes. Verify important information with official sources.</p>
     </div>
   );
 }
