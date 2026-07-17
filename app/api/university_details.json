@@ -1,0 +1,1421 @@
+[
+  {
+    "_id": "detail_dubai_001",
+    "university_id": "univ_dubai_001",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 79,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "1st trimister fee and visa fees",
+          "Mode of Visa Process": "Online "
+        },
+        "Remarks": "2 LORS mandatory for PG"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_002",
+    "university_id": "univ_dubai_002",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 25,
+          "Maximum working days for Offer": 60
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 80,
+            "PG": 88
+          },
+          "PTE Requirement": {
+            "UG": 51,
+            "PG": 59
+          },
+          "IELTS Waiver": "NO",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": "To accept the offer, student will have to pay the 1st installment fee along with visa fee, insurance fee etc. to proceed further for the visa application and this will be intimated by the institutions along with the offer letter."
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "5000 AED ",
+          "Mode of Visa Process": "Online "
+        },
+        "Remarks": "2 LORS mandatory"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_003",
+    "university_id": "univ_dubai_003",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 15,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": null,
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": null,
+            "PG": 92
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": 62
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": null,
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_004",
+    "university_id": "univ_dubai_004",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 79,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "2500 AED ",
+          "Mode of Visa Process": "Online "
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_005",
+    "university_id": "univ_dubai_005",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 3,
+          "Maximum working days for Offer": 15
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 78,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": 50,
+            "PG": 57
+          },
+          "IELTS Waiver": "Yes",
+          "IELTS Waiver Percentage (%)": "Minimum 70 in english in 12th",
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "10% of first year fees",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": "IELTS not required if if student has scored 70% marks in English in 12th"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_006",
+    "university_id": "univ_dubai_006",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 15,
+          "Maximum working days for Offer": 60
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5 (5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 69
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "2500 AED ",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_007",
+    "university_id": "univ_dubai_007",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 15,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 78,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": 50,
+            "PG": 58
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": "Minimum 70 in english in 12th std should be completed within 5 years",
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "Tuition Fee (1st trimester) and visa fees",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": "IELTS waiver possible if student has scored 70% marks in English in 12th std for UG courses in last 5 years"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_008",
+    "university_id": "univ_dubai_008",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 15
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "\tTOEFL Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": "No conditions",
+          "Medium of Instruction Accepted": "Yes",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "Instalment 1",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_009",
+    "university_id": "univ_dubai_009",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 3,
+          "Maximum working days for Offer": 15
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "\tTOEFL Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "Yes",
+          "IELTS Waiver Percentage (%)": "No conditions",
+          "Medium of Instruction Accepted": "Yes",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "AED 1680 ",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": "IELTS not required, Freshers MBA available"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_010",
+    "university_id": "univ_dubai_010",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 72,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": 51,
+            "PG": 58
+          },
+          "IELTS Waiver": "Yes",
+          "IELTS Waiver Percentage (%)": "IELTS waiver possible if student has scored 70% marks in English in 12th std for UG courses.",
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "3000 AED",
+          "Mode of Visa Process": "Online "
+        },
+        "Remarks": "IELTS waiver possible if student has scored 70% marks in English in 12th std in CBSE for UG courses."
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_011",
+    "university_id": "univ_dubai_011",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5.5 (5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 79
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 1680 ",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": "2 LORS mandatory for each courses and  Freshers MBA available"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_012",
+    "university_id": "univ_dubai_012",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5 (5)",
+            "PG": "6 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 79
+          },
+          "PTE Requirement": {
+            "UG": 41,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": null,
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_013",
+    "university_id": "univ_dubai_013",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 25,
+          "Maximum working days for Offer": 50
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5.5(5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 71,
+            "PG": 79
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "AED 3,000",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_014",
+    "university_id": "univ_dubai_014",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 15
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5(5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 79
+          },
+          "PTE Requirement": {
+            "UG": 46,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 2,625 ",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_015",
+    "university_id": "univ_dubai_015",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5 (5)",
+            "PG": "6 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 80
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": null,
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": "For MBA, they need 0-3.5 years of work experience , above 3.5 years of experience will not be accepted for MBA courses in IMT dubai"
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_016",
+    "university_id": "univ_dubai_016",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 10,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 80,
+            "PG": 80
+          },
+          "PTE Requirement": {
+            "UG": 42,
+            "PG": 50
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 3500",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_017",
+    "university_id": "univ_dubai_017",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 15
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (5.5)",
+            "PG": "6 (5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "Yes",
+          "IELTS Waiver Percentage (%)": "Minimum 60- 70 in english in 12th",
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "10% of first year fees",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_018",
+    "university_id": "univ_dubai_018",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5.5 (5.5)",
+            "PG": null
+          },
+          "\tTOEFL Requirement": {
+            "UG": 46,
+            "PG": null
+          },
+          "PTE Requirement": {
+            "UG": 51,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "Yes",
+          "Deposit Requirement": "50% of Tuition Fee + Visa fee",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_019",
+    "university_id": "univ_dubai_019",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 7,
+          "Maximum working days for Offer": 30
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "6 (6)",
+            "PG": "6.5 (6)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 72,
+            "PG": 90
+          },
+          "PTE Requirement": {
+            "UG": 51,
+            "PG": 58
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 3,500",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_020",
+    "university_id": "univ_dubai_020",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 20,
+          "Maximum working days for Offer": 60
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5(5)",
+            "PG": "6(5.5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 83
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": null,
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_021",
+    "university_id": "univ_dubai_021",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 15,
+          "Maximum working days for Offer": 60
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": 5.5,
+            "PG": 5.5
+          },
+          "\tTOEFL Requirement": {
+            "UG": 72,
+            "PG": 72
+          },
+          "PTE Requirement": {
+            "UG": 59,
+            "PG": 59
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 12,000",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_dubai_022",
+    "university_id": "univ_dubai_022",
+    "country_specific_data": {
+      "Dubai": {
+        "Turn Around Time for Offer Letter": {
+          "Minimum working days for Offer": 15,
+          "Maximum working days for Offer": 60
+        },
+        "English Language Requirements": {
+          "IELTS Requirement": {
+            "UG": "5 (5)",
+            "PG": "5.5 (5)"
+          },
+          "\tTOEFL Requirement": {
+            "UG": 61,
+            "PG": 69
+          },
+          "PTE Requirement": {
+            "UG": null,
+            "PG": null
+          },
+          "IELTS Waiver": "No",
+          "IELTS Waiver Percentage (%)": null,
+          "Medium of Instruction Accepted": "No",
+          "Remarks": null
+        },
+        "Payment and Visa Details": {
+          "Flywire Accepted (Yes/No)": "No",
+          "Deposit Requirement": "AED 12600",
+          "Mode of Visa Process": "Soft copy"
+        },
+        "Remarks": null
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_001",
+    "university_id": "univ_aus_001",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb, May, Sep",
+        "Applicable Application Submission Fees": "1. Application fees: AUD 150\n\n*Applicant can get the application fee waiver code but on open days only\n",
+        "Application Submission Mode": "1. Application is submitted from University's Application portal\nPlease use below link for university portal:\n\nhttps://applyonline.unsw.edu.au/agent-login\n\n2.Please use ZOHO Vault for UNSW login",
+        "Application Submission Process": "Apply on UNSW \"Apply online portal\"\n1. Select from below available options. \nUndergraduate /Postgraduate/Postgraduate Research\n2. Click on start new application.\n3. Fill out the required fields in my personal detail section. Personal details must match with applicant's passport details. \n4. Select degree preference in my application selection. \n5. Select appropriate prior qualification details of the applicant in my qualification section. \n6. Provide other details of the applicant such as English proficiency, employment details or other qualifications in other details section. \n7. Documents required for the application assessment must be attached separately in the available tab. Any irrelevant documents attached in the table will be rejected and escalated. \n8. Finish application and save the application in the CF.\n\nApply online on SIMS which is UNSW online Portal with supporting documents under categorized checklist only and not in Bulk \nAttachments.\n• DO NOT upload illegible , incomplete documents, missing marksheets. Such applications will NOT BE considered for assessment \npurpose and eventually will be delayed.",
+        "Required Additional Documents": "1. GTE Assessment and Financial Declaration Form\n\n(Required at GTE stage only)\n\nEach form must be signed/stamped and dated by the counsellor on declaration page\n\nIncomplete forms will experience delays",
+        "Additional Remarks": "1. Once conditional offer letter is released it is valid for only 8 weeks (56 days)\n2. If offer is expired or course needs to changed, it can't be reinstated, need submit new application with application fee\n3. Once Unconditional offer letter is released it is valid for only 3 weeks (21 days)\n4. Offer letter are to be released in rounds, and applications should be submitted 4 weeks prior to that.",
+        "Interview Status": "No Interview",
+        "Change of Agent possibility": "Change of agent is possible\n\n",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "GTE and Financial Declaration form along with Financial Documents is to shared with University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_002",
+    "university_id": "univ_aus_002",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb/July",
+        "Applicable Application Submission Fees": "Application fees: AUD 150\n\n• Fee waivers can be used for all regions in India except Punjab, Haryana, Sri Ganganagar (Rajasthan) & Hanumangarh (Rajasthan) and Not for Quota Programes\n\n• Separate codes for Undergraduate and Postgraduate applications\n",
+        "Application Submission Mode": "1. Application is submitted from University's Application portal\n\nPlease use below link for university portal:\nhttps://apply.uq.edu.au/login\n\n2. Please use ZOHO Vault for UQ login\n\nNote:\na) South region applications are submitted with below ID in ZOHO Vault\nThe University of Queensland- South\nb) North region applications are submitted with below ID in ZOHO Vault\nThe University of Queensland- North\nc) East West International region applications are submitted with below ID in ZOHO Vault\nThe University of Queensland- Central",
+        "Application Submission Process": "Apply on UQ Portal (Central, North and South)\n1. Create Applicant's profile\n2. Click on UG/PG whichever is suitable for applicant. \n3. Select degree preference in my application selection. \n4. Select appropriate prior qualification details of the applicant in my qualification section. \n6. Provide other details of the applicant such as English proficiency, employment details or other qualifications in other details section. \n7. Documents required for the application assessment must be attached on portal.",
+        "Required Additional Documents": "1. GTE Agent Checklist Form (Manually Signed by Agent)\n\n2. Genuine Temporary Entrant Form (Manually Signed by student)",
+        "Additional Remarks": "While submitting the application in university portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n",
+        "Interview Status": "University of Queensland does not conduct interview of the applicants.",
+        "Change of Agent possibility": "Change of agent is possible\n\n",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "1.KC is authorized to approve funds of the applicants on behalf of UQ if offer is Unconditional.\n\nNote: University may request financial evidences from Punjab and Haryana region applicants."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_003",
+    "university_id": "univ_aus_003",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "1)\tAndhra Pradesh\n2)\tTelangana\n3)\tPunjab\n4)\tHaryana\n5)\tGujarat\n6)\tUttar Pradesh\n7)\tRajasthan\n8)\tUttarakhand\n9)\tHimachal Pradesh\n10)\tJammu & Kashmir\n\nCase by Case basis",
+        "Available Intakes": "Intakes available: Feb/July/Nov",
+        "Applicable Application Submission Fees": "Application fees:  AUD 125",
+        "Application Submission Mode": "1. Application is submitted from University's Application portal\n\nPlease use below link for university portal:\n\nhttps://agent.apps.monash.edu/agent/sign-in\n\n2. Please use ZOHO Vault for Monash University login",
+        "Application Submission Process": " 1. Please login to ZOHO Vault. Search Monash University and login to university portal.\n\n2. Please click on \"New Application\" and fill out all the information required in the application page and submit the application.\n\nSave the screenshot of the application fee payment confirmation in the student's respective folder, the same has to be uploaded on the University's application portal.\nIf student's profile is exceptionally well, then we can offer waiver code.",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in university portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. Before any application submission of any partner's applicant, respective Manager will take interview. (Except Franchise)",
+        "Interview Status": "Monash does not conduct interviews with the applicants.",
+        "Change of Agent possibility": "Change of agent is possible\n\n",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "KC is authorized to approve funds of the applicants on behalf of Monash University."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_004",
+    "university_id": "univ_aus_004",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb/July",
+        "Applicable Application Submission Fees": "\n1. AUD 150\n2. No waiver for quota programs.\n3. Waiver code is applicable to students meeting entry requirements of the university, which are higher than their actual requirements. \n4. Please be mindful of the risk regions and GTE risk factors students may have.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1\n2.Please use ZOHO Vault for Study Link portal login",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in university portal please follow below mandatory steps:\n\nPlease make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nAll the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "Adelaide University does conduct interview of the applicants. (High Risk and Case by Case basis)\n\nNote: Applicants changing their field of study (when moving from Bachelor to Master) can be called for interview",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "1. KC is authorized to approve GTE of the applicants if received offer is Unconditional"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_005",
+    "university_id": "univ_aus_005",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "•\tNot accepting applications if student’s place of birth or passport address or work experience or graduating from institutions (either degree or diploma) located in:\n\no\tHanumangarh\no\tLakhimpur\no\tSriganganagar\no\tHanumannagar\no\tYamunanagar\no\tJind\no\tKaithal",
+        "Available Intakes": "Intakes available: Feb/July",
+        "Applicable Application Submission Fees": "Application fee is AUD 150.\n\nUniversity of Western Australia has provided us the waiver code.",
+        "Application Submission Mode": "1. Application is submitted from -University of Western Australia portal\n\n2. Please use ZOHO Vault for University of Western Australia login\n\nPlease use below link for university portal:\n\nhttps://www.uwa.edu.au/study/AgentDashboard",
+        "Application Submission Process": "Login to the  portal to submit the application. As the application is processed through , we don’t need to stamp the documents.\n\n1.University of Western Australiais submitted on -University of Western Australia portal\n\n2. Please login to ZOHO Vault. Search University of Western Australia portal and login to university portal.\n\n3. Please click on \"Agent Dashboard\" and fill out all the information required in the dialoge box.\n\n4. Please click on \"Add Applicant\" and fill out all the information required in the dialoge box.\n\n5. Fill out all the information required in the (Apply Online) application page and submit the application.\n\nDocuments required:\n\n   1. Applicants submitted documents binder\n",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "UWA Team schedules interview, \nDate & Time is sent to student & \nagent\n\n• Counsellors must prepare the \nstudent for the interview; no \nsecond chance will be offered",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "GTE and Financial Declaration form along with Financial Documents is to shared with University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_006",
+    "university_id": "univ_aus_006",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Haryana (Tentatively)",
+        "Available Intakes": "Intakes available: Feb / July\n\nJan / May / Aug",
+        "Applicable Application Submission Fees": "University of Newcastle does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from University's Application portal\n\nPlease use below link for university portal:\n\nhttps://dotnet.newcastle.edu.au/concierge/?pathway=agent-apply&patharg=%2C\n\n2. Please use ZOHO Vault for University of Newcastle login",
+        "Application Submission Process": "1.University of Newcastle application is submitted on universities Official Website\n\n2. Please use ZOHO Vault for University of Newcastle login\n\n3. Click on \"Apply to study in Australia\".  Click on \"Begin Application\" on \"New Application\" page.\n\n4. Fill out all the information required in the (Apply Online) application page and submit the application.\n\nDocuments required:\n\n   1. Applicants submitted documents binder\n   2. GENUINE STUDENT (GS) STAGE 1 CHECKLIST\n   3. 300 words SOP shared by applicant",
+        "Required Additional Documents": "GENUINE STUDENT (GS) STAGE 1 CHECKLIST",
+        "Additional Remarks": "While submitting the application in university portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n",
+        "Interview Status": "1. University of Newcastle can conduct video interview of the applicants on case by case basis.",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "KC is authorized to approve GTE of the applicants on behalf of University of Newcastle if received offer is Unconditional Offer."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_007",
+    "university_id": "univ_aus_007",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "1. Punjab and Haryana\n2. Gujarat (business programs, pathway programs and health program) - Refer QUT Checklist\n\n\n• Lakhimpur Kheri, Pilibhit and Bijnor (Uttar Pradesh)\n• Hanumangarh and Sri Ganganagar (Rajasthan)\n• Udham Singh Nagar and Haldwani (Uttarakhand)\n• Una (Himachal Pradesh)",
+        "Available Intakes": "Intakes available:  Feb / July / Nov",
+        "Applicable Application Submission Fees": "Waiver code is available",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": "1. GTE Agent Checklist Form (To be filled by Agent)\nAll the required section must be filled and signed by agent\n\nWhile submitting COA ensure to submit agent change summary by student listing the reasons for COA",
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Territorial restrictions of Queensland University of Technology:\n\n2. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n3. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n4. GTE Agent Checklist Form must signed with counsellor's name and signature and should be stamped updated of the current month in which application is submitted.",
+        "Interview Status": "KC team mandatorily conduct interview of the applicants on behalf of QUT at application stage.",
+        "Change of Agent possibility": "Change of agent is possible:\n\nNote: Form will not be processed if agent has not attached a statement from the student containing the reasons for the change of agent in accordance with section 4 of the COA Form.",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": " Queensland University of Technology approves the GS/GTE of the applicants"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_008",
+    "university_id": "univ_aus_008",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Update dated 07.11.2024\n\nYour agency may be restricted \nfrom sending us applications \nfrom all or some of the \nfollowing regions in India:\n1. Punjab\n2. Haryana (excluding Gurgaon \nand Faridabad)\n3. Telangana\n4. Gujarat ( Mehsana and Banasnaka )\n5. Rajasthan (excluding Jaipur \nand Udaipur)\n6. Jammu & Kashmir\n7. Uttar Pradesh (excluding \nDelhi NCR region)\n8. Uttarakhand\n\nAll applicants from these \nregions will be interviewed by \nthe university before an \noutcome is released",
+        "Available Intakes": "Intakes available: Feb / July \n",
+        "Applicable Application Submission Fees": "Macquarie University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "University conducts an interview based on applicants profile\n\nThe following applicants may be refused:\n\n1. Incorrect contact details for the \napplicant \n2. Applicants not responding to \ncalls/email of the interviewer \n3. Applicants rescheduling the \ninterview multiple times\n4. Applicants who are unable to \nprovide basic course details, study \nintention, financial situation and \nfuture plans.",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "KC is authorized to approve GTE of the applicants on behalf of Macquarie University if received offer is Unconditional Offer."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_009",
+    "university_id": "univ_aus_009",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Punjab\nHaryana\n(Only Gurgaon is accepted)",
+        "Available Intakes": "Intakes available:  Feb / July",
+        "Applicable Application Submission Fees": "AUD $ 100\nFor Hayana, Punjab, Gujarat and Telangana Only",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": "RMIT Document Checklist- India\n\nGTE SOP form is applicable in below cases.\n\na. Students with previous visa refusal\nb. Married students\nc. Students applying for same qualification level",
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. Genuine Temporary Entrant Statement of Purpose Form (SSVF). must signed with applicants name and signature and should be stamped updated of the current month in which application is submitted.",
+        "Interview Status": "University may conduct an interview based on applicants profile\n\nNote: Interview is conducted via Teams.",
+        "Change of Agent possibility": "Change of agent is not possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "1. KC is authorized to approve GTE of the applicants on behalf of RMIT University based on students profile.\n\nNote: Above is applicable only of no condition mentioned/required for financials in the offer letter."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_010",
+    "university_id": "univ_aus_010",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb / July / Nov",
+        "Applicable Application Submission Fees": "Deakin University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": "1. Deakin GTE Declaration Form\n\nNote: At the stage of application submission, mentioning financial declaration (mentioned in the second page of the form) is not mandatory and can be submitted at later stages of the application. ",
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Applicant must be fluent|Conversant|Smooth Spoken in english language.\n\n2. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n3. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n4. Deakin GTE Declaration Form must be signed with applicants name and signature and should be stamped updated of the current month in which application is submitted.\n\nNote: Below mentioned occupations of applicants parents are not allowed in Deakin University\n\na) Boutique|Parlour\nb) Tution Classe| Home Tutions",
+        "Interview Status": "1. Deakin University does conduct interview of all the applicants.\n\n2. Interview is conducted via Skype|Telephonic.\n\nNote: \n\na) University interview is conducted post making the offer.\n\nb) KC Team mandatorily conducts applicants interview before application submission. \n\n(Please discuss with your respective TL's for interview related updates, the same might differ casewise and region wise)",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "1. KC is authorized to approve GTE of the applicants on behalf of Deakin University based on students profile.\n\nAfter payment, while requesting CoE, all financial documents needs to submitted to the University."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_011",
+    "university_id": "univ_aus_011",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb/July",
+        "Applicable Application Submission Fees": "University of Tasmania does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "University of Tasmania can conduct interview of the applicants on case by case basis",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University of Tasmania provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_012",
+    "university_id": "univ_aus_012",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb / July / Nov",
+        "Applicable Application Submission Fees": "AUD 50",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "University can conduct interview of the applicants on case by case basis",
+        "Change of Agent possibility": "Change of agent is possible\n\nNote: Change of agent is possible till the stage of receiving of conditional offer letter or before that.",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "For Maharashtra, Kerala, Tamilnadu & Karnataka, GS approval is with KC, we just need to submit 1 form to the University.\n\nRest States approval lies with University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_013",
+    "university_id": "univ_aus_013",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Punjab & Haryana",
+        "Available Intakes": "Intakes available: Jan / May / Sep",
+        "Applicable Application Submission Fees": "No Application Fee",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "University conducts an interview of the applicants on below mentioned stages:\n\na) Application Stage\nb) GTE Stage \n\nNote:\nStudent should be aware of Townsville / Cairns as the campus",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "James Cook University, Townswille provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_014",
+    "university_id": "univ_aus_014",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Jan / May / Sep",
+        "Applicable Application Submission Fees": "No Application Fee",
+        "Application Submission Mode": "James Cook University, Brisbane applications are submitted via E-mail on below mentioned official email ID.\n\nEmail ID: admissions@jcub.edu.au",
+        "Application Submission Process": "1. James Cook University, Brisbane applications are submitted via E-mail on below mentioned official email ID.\n\nJCUB Admissions <admissions@jcub.edu.au>\n\n2. Application submission process is as below:\n\na) Applicants profile is shared mentioning below details:\n \n   Full name of the applicants\n   Date of Birth  of the applicants\n   Preferred Program\n   Preferred Intake\n   Email ID of the applicant\n   Mobile No of the applicant\n\nNote: Subject line of the email is as below - \n\nNew Application - Applicants full name | James Cook University, Brisbane for (Preferred Intake) Intake \n   \nDocuments required:\n   a) Applicants submitted documents binder\n   b) Student Declaration Form (Manually signed by student)\n   c) GTE Assessment Form (Manually signed by student)\n   d) Application Form  (Manually signed by student)\n   e) Agent Declaration (Signed and Stamped by agent|assignee)",
+        "Required Additional Documents": "1. Student Declaration Form (Manually signed by student)\n\n2. GTE Assessment Form (Manually signed by student)\n\n3. Application Form  (Manually signed by student)\n\n4. Agent Declaration (Signed and Stamped by agent|assignee)\n\n\n",
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. Foms:\n\n a) Student Declaration Form (Manually signed by student)\n b) GTE Assessment Form (Manually signed by student)\n c) Application Form  (Manually signed by student)\nd) Agent Declaration (Signed and Stamped by agent|assignee)\n\nNote: Form must be signed with applicants name and signature and should be stamped updated of the current month in which application is submitted.",
+        "Interview Status": "University conducts an interview of the applicants at application assessment stage.",
+        "Change of Agent possibility": "TBC\n\nNote: We usually do not encourage COA unless the student is facing serious concerns with their primary agent. If they have any issues then they can feel free to reach out to me and I can assist - Vaibhav Kwatra\n\n",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "James Cook University, Brisbane provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_015",
+    "university_id": "univ_aus_015",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Haryana - Kurukshetra, Karnal, Kaithal, Panipat and Yamuna Nagar, Rudrapur\n\nSubmitted case by case basic.",
+        "Available Intakes": "Intakes available:  Feb / July",
+        "Applicable Application Submission Fees": "Swinburne University of Technology does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote:\n\n1. In case of Backlogs, backlog certificate is reqired from University/college \n2. Grade conversion sheet from College/University is mandatory in case the percentage/total marks are not mentioned on the marksheet/transcripts",
+        "Interview Status": "University may conduct an interview based on applicants profile",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "Swinburne University of Technology provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_016",
+    "university_id": "univ_aus_016",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Punjab and Haryana\n(For Generic Courses)\n",
+        "Available Intakes": "Intakes available: Mar / July / Nov",
+        "Applicable Application Submission Fees": "La Trobe University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. IELTS Score requirements: \n\na) University provides IELTS score requirement relaxation for below applicants - \n\nApplicants completing/completed Bachelor's degree from section 1 and 2 university opting to apply for Business programs, Information Technology and Engineering programs.\n\nNote: Above relaxation is applicable in below cases - \n\n1. Students must have Bachelors degree in the duration of last 5 years from the date of applied intake\n\n2. Students profile will be accepted if student has scored 6 (6), 6.5 (5.5), or 6 (5.5) in IELTS.",
+        "Interview Status": "La Trobe University does conduct video interview of all the applicants.",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "La Trobe University provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_017",
+    "university_id": "univ_aus_017",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb / July / Oct",
+        "Applicable Application Submission Fees": "Flinders University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "Flinders University may conduct interview of the applicants on cases by case basis",
+        "Change of Agent possibility": "Change of agent is possible in Flinders University",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "Flinders University provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_018",
+    "university_id": "univ_aus_018",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb / July / Nov",
+        "Applicable Application Submission Fees": "CQUniversity does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "1. CQUniversity does conduct interview of all the applicants.\n2. Interview is conducted via Telephone\n\nNote: Interview is conducted at the time of application stage. If required then also at GS Stage",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "CQUniversity provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_019",
+    "university_id": "univ_aus_019",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "None\n\n•\tSingle name students without surname on passport from high risk regions like Punjab, Haryana and Rajasthan are not acceptable",
+        "Available Intakes": "Intakes available: Feb / July",
+        "Applicable Application Submission Fees": "Application fee is AUD 50",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": "UTS online authority form",
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. Foms:\n\n a) Authority to submit an Online Application Form (Signed by applicant)\n",
+        "Interview Status": "University conducts interview after submitted GS Documents and before giving payment approval",
+        "Change of Agent possibility": "Change of agent is possible\n\nConditions: Same intake change of agent is not possible. Application must be submitted for future intake.\n\nNote: Once application tagged under KC, previous agent application is reflected in study link. University shares any futher communication related to the application in this application. Hence it is necessary for assignee to update this application ID in CF for refernce.",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University of Technology, Sydney provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_020",
+    "university_id": "univ_aus_020",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "1.Punjab\n2. Haryana\n3. Rajasthan\n4. Jammu and Kashmir\n5. Uttar Pradesh \n6. Uttarakhand\n\n(Except Gurgaon|Delhi| Noida)",
+        "Available Intakes": "Intakes available: \n\nTrimesters: Jan / May / Aug\nSemesters: Feb / July",
+        "Applicable Application Submission Fees": "University of Wollongong does not charge application fees.",
+        "Application Submission Mode": "1.University of Wollongong application is submitted on universities Official Website\n\nPlease use below link for university portal:\n\nhttps://applytouow.uow.edu.au/app/servlet/Representative;jsessionid=AD3F8F9961AB56237A2B4E17C03251BC.hemen_apply_online_uow\n\n2. Please use ZOHO Vault for University of Wollongong login\n\n",
+        "Application Submission Process": "1.University of Wollongong application is submitted on universities Official Website\n\n2. Please use ZOHO Vault for University of Wollongong login\n\n3. Fill out all the information required in the (Apply Online) application page and submit the application.\n\nDocuments required:\n\n   1. Applicants submitted documents binder\n   2. Genuine Temporary Entrant form (Manually Signed by student)",
+        "Required Additional Documents": "a. Genuine Temporary Entrant (GTE) form\nb. Declaration Form\n\nAbove mentioned forms must be submitted with below mandatory details.\na. The GTE form must be typed and not handwritten.\nb. The GTE form needs to have more detailed answers.\nc. All the pages of the form must be present at the time of submission in university",
+        "Additional Remarks": "While submitting the application in university portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\n3. Genuine Temporary Entrant form (Manually Signed by student) must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "University may conduct an interview based on applicants profile mostl likely on funds stage of the application.",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University of Wollongong provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_021",
+    "university_id": "univ_aus_021",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "1. Intakes available: Feb/July\n\nSpecific courses available intake Oct | Nov\n\n2. Nov intake is available for the Data science, Information Technology, Professional Accounting & Social work Programs.",
+        "Applicable Application Submission Fees": "Charles Darwin University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": "While submitting the application in study link portal please follow below mandatory steps:\n\n1. Please make sure students profile is assessed as per course requirements and all academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\n2. All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Interview Status": "Charles Darwin University does conduct interview of the applicants",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "Charles Darwin University provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_022",
+    "university_id": "univ_aus_022",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": " Intakes available: Feb / July\n\nSpecific PG courses are available intake Jan | May | Aug",
+        "Applicable Application Submission Fees": "Murdoch University does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from -Murdoch University portal\n\n2. Please use ZOHO Vault for Murdoch University login\n\nPlease use below link for university portal:\n\nURL: https://goto.murdoch.edu.au/MyAgentAdmission\nAgent ID  35739846  Password: 35739846 (same as agent ID)",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Murdoch University portal login\n\n2. Click on \"Create Applicants\" option on  dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created .\n\nDocuments required:\n\n   1. Applicants submitted documents binder  \n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": null,
+        "Additional Remarks": null,
+        "Interview Status": "Surprise Interview at GS stage immediately after financials are submitted depending on the availability of slots",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "Murdoch University provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_023",
+    "university_id": "univ_aus_023",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": " Intakes available: Feb / July\n\nFor MBA available intake Jan | May | Aug",
+        "Applicable Application Submission Fees": "University of Sunshine Coast does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from Study Link portal\n\nPlease use ZOHO Vault for Study Link login:\n\n1. Passphrase: KC-Australia@1",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"Applicants\" option on study link dashboard.\n\n3. Click on \"Create Applicant\", and fill out all the information required in the applicants page. \"Save\" Information and applicants ID will get created in study link.\n\n4. Click on \"Applications\" option in applicants ID.  Click on \"Create Application\" .\n\n5. Add course name in \"Keywords\" search box.  Select the name of the university student opted the course mentioned in course finder. Click on \"Search\".\n\n6. Once you have filtered the coursework shows in the search results, click on \"Apply\".\n\n7. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.\n\nNote: Use your email ids where you are asked to enter agent/counsellors email id. ",
+        "Required Additional Documents": "SOP Form while submitting an application",
+        "Additional Remarks": "Agent Change: Allowed before issuance of unconditional offer.",
+        "Interview Status": "Video interview after 3 days of the financial assessment",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University of Sunshine Coast provides GTE approvals.\n\nThe GS Form needs to be submitted on \"gte@usc.edu.au\""
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_024",
+    "university_id": "univ_aus_024",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb/July/Nov",
+        "Applicable Application Submission Fees": "Application fees:  AUD 250",
+        "Application Submission Mode": "Application is submitted via a link",
+        "Application Submission Process": "Submit application in the below mentioned link with applicants documents.\n\nhttps://analyticsinstitute.edu.au/application-process\n",
+        "Required Additional Documents": null,
+        "Additional Remarks": "1. GTE check requirements for applicants in India\n\n- GTE check form, which will be sent together with LOF\n- GTE statement (300 words) indicating study motivation, choice of education provider, course and career plan\n- Financial documents: either evidence of $60,000AUD annual income of the sponsor or sufficient fund (saving account bank statement) covering 12 months studying +living expenses.\n\n2. Acceptable Study Gap: Maximum 2-year study gap since high school completion is allowed. Study/employment evidence might be asked for supporting documents. The study gap can be considered on case-by-case basis.",
+        "Interview Status": "No",
+        "Change of Agent possibility": "TBD",
+        "Appointment of Agent possibility": "TBD",
+        "GTE Approval": "With Institution"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_025",
+    "university_id": "univ_aus_025",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "\n Haryana ",
+        "Available Intakes": "Intakes available: Feb / July / Nov",
+        "Applicable Application Submission Fees": "KBS  does not charge application fees.",
+        "Application Submission Mode": "1. Application is submitted from -Kaplan portal\n\n2. Please use ZOHO Vault for Kaplan login\n\nPlease use below link for university portal",
+        "Application Submission Process": "Application submitted via Kaplink Agent Portal",
+        "Required Additional Documents": null,
+        "Additional Remarks": "Only PG programs accepted",
+        "Interview Status": "Case by Case Basis",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "KBS provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_026",
+    "university_id": "univ_aus_026",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Intakes available: Feb / July",
+        "Applicable Application Submission Fees": "The University of Notre Dame does not charge application fees.",
+        "Application Submission Mode": "Application is submitted by university application portal.",
+        "Application Submission Process": "Submit application in the below mentioned link with applicants documents.\n\nhttps://www.oxfordinternational.com/admissions/notre-dame",
+        "Required Additional Documents": null,
+        "Additional Remarks": "State Board Not accepted",
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University of Notredame provides GTE approvals."
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_027",
+    "university_id": "univ_aus_027",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "January | April | June | September",
+        "Applicable Application Submission Fees": "AUD 250",
+        "Application Submission Mode": "Via Email",
+        "Application Submission Process": "Application mail shared on  below email ID with aplicants academic documents and LE_Cordon_Application Form 2024|Applicant Checklist for SSVF processing form| SOP.\n\nearora@cordonbleu.edu\npkalra@cordonbleu.edu\n ",
+        "Required Additional Documents": "LE_Cordon_Application Form 2024\n\nApplicant Checklist for SSVF processing form\n\nSOP",
+        "Additional Remarks": null,
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_028",
+    "university_id": "univ_aus_028",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Feb | Jul",
+        "Applicable Application Submission Fees": "No",
+        "Application Submission Mode": "Through University Portal",
+        "Application Submission Process": " 1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"EIT\" option on study link dashboard.\n",
+        "Required Additional Documents": "Forms:\n\nEIT_Application for admission Form\n\nEIT_GTE Assessment Form\n\nEIT_Statement of purpose\n\nEIT_Student Financial Declaration Form",
+        "Additional Remarks": null,
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_029",
+    "university_id": "univ_aus_029",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Feb| Jul",
+        "Applicable Application Submission Fees": "No",
+        "Application Submission Mode": "Via Website:",
+        "Application Submission Process": "Application submitted on below link with aplicants academic documents and Excelsia- International Student Application form.\n\nhttps://forms.zohopublic.com/excelsia/form/CourseApplicationForm/formperma/l_y_Iq5oFm75Am26V59jNpBh6_9S94L1qlY36o2RURY\n\n",
+        "Required Additional Documents": null,
+        "Additional Remarks": null,
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "With College"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_030",
+    "university_id": "univ_aus_030",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": "Punjab",
+        "Available Intakes": "Feb| Jul",
+        "Applicable Application Submission Fees": "No",
+        "Application Submission Mode": "Via Email",
+        "Application Submission Process": "Application submitted on below link with aplicants academic documents and Overseas Student Application for Enrolment Form.\n\nadmissions@ironwood.edu.au\n \n\n",
+        "Required Additional Documents": "Overseas Student Application for Enrolment Form",
+        "Additional Remarks": "Leads to Uni Adelaide and New England",
+        "Interview Status": "No",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "With Institution"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_031",
+    "university_id": "univ_aus_031",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Diploma: Jan| May| Aug\n\nPre Masters: Jan| May| Sep",
+        "Applicable Application Submission Fees": "No",
+        "Application Submission Mode": "StudyLink",
+        "Application Submission Process": "Study Link",
+        "Required Additional Documents": null,
+        "Additional Remarks": null,
+        "Interview Status": "No",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "University"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_032",
+    "university_id": "univ_aus_032",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Feb| Jul| Oct",
+        "Applicable Application Submission Fees": "No",
+        "Application Submission Mode": "University Portal",
+        "Application Submission Process": "Through Kaplan Portal",
+        "Required Additional Documents": null,
+        "Additional Remarks": null,
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "With College"
+      }
+    }
+  },
+  {
+    "_id": "detail_aus_033",
+    "university_id": "univ_aus_033",
+    "country_specific_data": {
+      "Australia": {
+        "Restricted Regions": null,
+        "Available Intakes": "Feb| Jul | Oct",
+        "Applicable Application Submission Fees": null,
+        "Application Submission Mode": "Through UWA INTO Portal",
+        "Application Submission Process": "1.Please login to ZOHO Vault for Study Link portal login\n\n2. Click on \"INTO UWA\" option on study link dashboard.\n\n3. Fill out all the information required in the application form and submit with below documents.\n\na) All academic documents|English Test documents|Work proof documents (if any) are consolidated in binder in accordance to the completion.\n\nb) All the documents attached in the binder must be stamped with counsellor's stamp of the current month in which application is submitted.",
+        "Required Additional Documents": null,
+        "Additional Remarks": null,
+        "Interview Status": "Yes",
+        "Change of Agent possibility": "Change of agent is possible",
+        "Appointment of Agent possibility": "Appointment of agent is possible",
+        "GTE Approval": "INTO"
+      }
+    }
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "_id": "univ_dubai_001",
+    "canonical_name": "University of Wollongong, Dubai Campus",
+    "original_names": [
+      "University of Wollongong, Dubai",
+      "University of Wollongong, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.uowdubai.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Class 12th –\n– 55% and above for ICSE\n– 55% and above for CBSE\n– 65% and above for State Board",
+      "Academic Requirements for PG": "More than 50-55% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_002",
+    "canonical_name": "University of Birmingham, Dubai Campus",
+    "original_names": [
+      "University of Birmingham, Dubai",
+      "University of Birmingham, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.birmingham.ac.uk/dubai/index.aspx",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "80% ISC/CBSE/Maharashtra or 75% West Bengal or 85% other State Boards",
+      "Academic Requirements for PG": "More than 60-65% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_003",
+    "canonical_name": "Hult International Business School, Dubai Campus",
+    "original_names": [
+      "Hult International Business School, Dubai",
+      "Hult International Business School, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.hult.edu",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": null,
+      "Academic Requirements for PG": " 55% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_004",
+    "canonical_name": "Rochester Institute of Technology Dubai (RIT Dubai)",
+    "original_names": [
+      "Rochester Institute of Technology Dubai (RIT Dubai)"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.rit.edu/dubai",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 65% and above in 12th depending on the course and the Board .There may be subject specific min score  requirements",
+      "Academic Requirements for PG": "More than 60% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_005",
+    "canonical_name": "Heriot Watt University, Dubai Campus",
+    "original_names": [
+      "Heriot Watt University, Dubai",
+      "Heriot Watt University, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://www.hw.ac.uk/dubai/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 60-65% and above in 12th depending on the course and the Board .There may be subject specific min score  requirements",
+      "Academic Requirements for PG": "More than 55-60% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_006",
+    "canonical_name": "Canadian University, Dubai",
+    "original_names": [
+      "Canadian University, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.cud.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 75% and above in 12th std for all qualification except engineering programme.\nFor Engineering students they need minimum 85% and above in 12th std ",
+      "Academic Requirements for PG": "More than 65% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_007",
+    "canonical_name": "Murdoch University, Dubai Campus",
+    "original_names": [
+      "Murdoch University, Dubai",
+      "Murdoch University, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.murdochdubai.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 60-65% and above in 12th depending on the course and the Board .There may be subject specific min score  requirements",
+      "Academic Requirements for PG": "More than 50-55% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_008",
+    "canonical_name": "Regent College",
+    "original_names": [
+      "Regent College",
+      "Regent college",
+      "Regent college Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://regenteducation.ae/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Level 2 & 3:\nDiploma & Extended Diploma : 50% and above in Class 10th\nLevel 5: \nHigher National Diploma (HND): 55% and above in Class 12th",
+      "Academic Requirements for PG": null,
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_009",
+    "canonical_name": "Manipal Academy of Higher Education, Dubai",
+    "original_names": [
+      "Manipal Academy of Higher Education, Dubai",
+      "Manipal University, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.manipal.edu/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "50% and above in Class 12th",
+      "Academic Requirements for PG": " 50% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_010",
+    "canonical_name": "Middlesex University, Dubai Campus",
+    "original_names": [
+      "Middlesex University, Dubai",
+      "Middlesex University, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.mdx.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum55-60% and above in 12th depending on the course and the Board .There may be subject specific min score  requirements",
+      "Academic Requirements for PG": "More than 50% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_011",
+    "canonical_name": "Abu Dhabi University, Abu Dhabi",
+    "original_names": [
+      "Abu Dhabi University, Abu Dhabi"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.adu.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": " 55% and above in Bachelor’s degree",
+      "Academic Requirements for PG": "More than 50% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_012",
+    "canonical_name": "American University of Ras Al Khaimah, Dubai",
+    "original_names": [
+      "American University of Ras Al Khaimah, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.aurak.ac.ae/en/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 60% and above in 12th depending on the course and the Board.There may be subject specific min score  requirements",
+      "Academic Requirements for PG": "55-60% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_013",
+    "canonical_name": "The Emirates Academy of Hospitality Management, Dubai",
+    "original_names": [
+      "The Emirates Academy of Hospitality Management",
+      "The Emirates Academy of Hospitality Management, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.emiratesacademy.edu",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "More than 60% and above in 12th std",
+      "Academic Requirements for PG": "More than 55-60% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_014",
+    "canonical_name": "Emirates Aviation University, Dubai",
+    "original_names": [
+      "Emirates Aviation University",
+      "Emirates Aviation University, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.eau.ac.ae",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "More than 70% and above in 12th std",
+      "Academic Requirements for PG": "More than 55% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_015",
+    "canonical_name": "Institute of Management Technology (IMT), Dubai",
+    "original_names": [
+      "Institute of Management Technology (IMT), Dubai",
+      "Institute of Management Technology, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "www.imt.edu/imt-dubai/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Minimum 60% and above in 12th std",
+      "Academic Requirements for PG": "More than 60% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_016",
+    "canonical_name": "University of Stirling, Dubai Campus",
+    "original_names": [
+      "University of Stirling, Dubai Campus"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://www.stir.ae/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "65% - 75% and above in Class 12th",
+      "Academic Requirements for PG": "55% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 10 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_017",
+    "canonical_name": "De Montfort University, Dubai",
+    "original_names": [
+      "De Montfort University, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://dmu.ac.ae/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Grade 12 with a minimum percentage of 50% ",
+      "Academic Requirements for PG": "More than 50% and above in Graduation",
+      "Accepted Backlogs": "Upto 30 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_018",
+    "canonical_name": "Global Business School, Dubai",
+    "original_names": [
+      "Global Business School, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://gbs.ac.ae/campuses/dubai/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Grade 12 with a minimum percentage of 50% ",
+      "Academic Requirements for PG": null,
+      "Accepted Backlogs": null
+    }
+  },
+  {
+    "_id": "univ_dubai_019",
+    "canonical_name": "Curtin University, Dubai",
+    "original_names": [
+      "Curtin University, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://curtindubai.ac.ae/",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Grade 12 with a minimum percentage of 60% ",
+      "Academic Requirements for PG": "More than 55% and above in Graduation",
+      "Accepted Backlogs": "Upto 20 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_020",
+    "canonical_name": "EM Normandie, Dubai",
+    "original_names": [
+      "EM Normandie, Dubai"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://en.em-normandie.com/internationally-recognised-business-school/dubai-campus",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Grade 12 with a minimum percentage of 65% ",
+      "Academic Requirements for PG": "More than 60% and above in Graduation",
+      "Accepted Backlogs": "Upto 10 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_021",
+    "canonical_name": "University of Europe for Applied Sciences",
+    "original_names": [
+      "University of Europe for Applied Sciences"
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://www.ue-germany.com/about-us/locations/dubai",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "60% and above in Class 12th",
+      "Academic Requirements for PG": "60% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 10 backlogs "
+    }
+  },
+  {
+    "_id": "univ_dubai_022",
+    "canonical_name": "Instituto Marangoni ",
+    "original_names": [
+      "Instituto Marangoni "
+    ],
+    "Country": "Dubai",
+    "University Website URL": "https://www.istitutomarangoni.com/landing_pages/en/schools/dubai-mro?int_cmp=SRC_ALL_F_000000_Google_IN_EN_DUBAI_Brand&gad_source=1&gclid=EAIaIQobChMIk4f85vmnhQMVRwp7Bx2E3w9LEAAYASAAEgLQFPD_BwE&gclsrc=aw.ds",
+    "Campus Location/s": null,
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "70% and above in Class 12th",
+      "Academic Requirements for PG": "60% and above in Bachelor’s degree",
+      "Accepted Backlogs": "Upto 20 backlogs "
+    }
+  },
+  {
+    "_id": "univ_aus_001",
+    "canonical_name": "The University of New South Wales",
+    "original_names": [
+      "The University of New South Wales"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 70 % and above\n2. ICSE : 70-75 % and above\n3. State Boards : Minimum 80% and above (Case by Case)\n4. IB: 27 & above\n5. SAT Score is also accepted - (Need to assign this to University via College Board portal)\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.\n\nUG applicants-Official Marksheet. if CBSE Board -Admit card is mandatory else Admissions will not be able to proceed on application \nto make an offer.",
+      "Academic Requirements for PG": "1. Postgraduate coursework entry requirement is 65% and above.\n\nDocuments: \n\n4 Year Degree: Min 6 Semester Marksheets\n3 Year Degree: Min 5 Semester Marksheets\n5 Year Degree: Min 8 Semester Marksheets\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.\n\n https://www.admissions.unsw.edu.au/PGCalculators/numCalculator.php",
+      "Accepted Backlogs": "No Limit,\n\nDegree should be completed in stipulated time period."
+    }
+  },
+  {
+    "_id": "univ_aus_002",
+    "canonical_name": "The University of Queensland",
+    "original_names": [
+      "The University of Queensland"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Brisbane",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 70 % and above\n2. ICSE : 70 % and above\n3. State Boards : Minimum 80% and above (Case by Case)\n4. IB: 27 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.\n",
+      "Academic Requirements for PG": "1. Postgraduate coursework entry requirement is 65% and above.\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Backlogs – 8 for 4 yrs degree, 6 for 3 yrs degree\n"
+    }
+  },
+  {
+    "_id": "univ_aus_003",
+    "canonical_name": "Monash University",
+    "original_names": [
+      "Monash University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. IB: 26 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.\n",
+      "Academic Requirements for PG": "Postgraduate coursework requires below percentile depending on the course opted by the applicants. \n\nGeneral Entry Requirement ranges between 60% to 70%.\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Maximum number of backlogs accepted – 5-6 for 3 / 4 / 5 years of course\n"
+    }
+  },
+  {
+    "_id": "univ_aus_004",
+    "canonical_name": "Adelaide University",
+    "original_names": [
+      "Adelaide University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Adelaide, Mawson Lakes",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. Undergraduate coursework requires below percentile depending on the course opted by the applicants. \n\nUG : CBSE- 70% & above, ICSE - 70% & above \n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile depending on the course opted by the applicants. \n\nPG : 65%  and Above (Percentage varies course by course) \n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "The maximum number of fails (or) backlogs that will be accepted for all PGCW programs will be 8 (including absents) (irrespective of the duration of degree – 3 Years / 4 Years / 5 Years). "
+    }
+  },
+  {
+    "_id": "univ_aus_005",
+    "canonical_name": "University of Western Australia",
+    "original_names": [
+      "University of Western Australia"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Perth\n",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE Points: 9 and above (ATAR 75 and above)\n2. ICSE : 65 % and above\n3. IB: 25 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.\n",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile depending on the course opted by the applicants. \n\nPG : 65%  and Above (Percentage varies course by course) \n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Maximum number of backlogs accepted – 8 for 3 / 4 / 5 years of course\n"
+    }
+  },
+  {
+    "_id": "univ_aus_006",
+    "canonical_name": "The University of Newcastle",
+    "original_names": [
+      "The University of Newcastle"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Newcastle and Sydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 65% and above (Punjab and Haryana Not Accepted)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "3 years degree - Max of 10\n4 years degree - Max of 20"
+    }
+  },
+  {
+    "_id": "univ_aus_007",
+    "canonical_name": "Queensland University of Technology",
+    "original_names": [
+      "Queensland University of Technology"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Brisbane",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 60 % and above\n2. ICSE : 60 % and above\n3. State Board: 75% and above (Punjab and Haryana Not Accepted)\n4. IB: 28 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires percentile depending on the course opted by the applicants. \n\n50%",
+      "Accepted Backlogs": "15-20 Backlogs\n\nNote: Exceeding backlogs can be considered if the applicant is working and has exceptionally good profile."
+    }
+  },
+  {
+    "_id": "univ_aus_008",
+    "canonical_name": "Macquarie University",
+    "original_names": [
+      "Macquarie University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 65% and above (Punjab and Haryana Not Accepted)\n4. IB: 25 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile depending on the course opted by the applicants. \n\nGeneral Entry Requirement 60%\n\nUpdate Dated 07.11.2024\n\nApplications will not be processed \nfurther until official verification \ndetails are provided of below listed \nIndian universities:\n1. Osmania University\n2. Kurukshetra University \nPotentially fake universities:\n• Maharaja Ganga Singh \nUniversity (Sri Ganganagar)\n• I.K Gujaral Technical \nUniversity (Punjab)\n• Manav Bharti University, \nbased out of Solan district in \nthe Indian state of Himachal \nPradesh\n• I.E.C (India Education \nCentre) University, Baddi, \nSolan Himachal Pradesh\n• Netaji Subhash chandra Bose \nUniversity (Open University), \nAchaltal, Aligarh, U.P",
+      "Accepted Backlogs": "3 years degree - Max of 8\n4 years degree - Max of 10"
+    }
+  },
+  {
+    "_id": "univ_aus_009",
+    "canonical_name": "RMIT University",
+    "original_names": [
+      "RMIT University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 70% and above (Punjab and Haryana Not Accepted)\n4. IB: 25 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires percentile depending on the course opted by the applicants. \n\nAll Sections: 60% & above\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Maximum 10 (including repeats/number of attempts). Please note absent at examination shall also be counted as backlog."
+    }
+  },
+  {
+    "_id": "univ_aus_010",
+    "canonical_name": "Deakin University",
+    "original_names": [
+      "Deakin University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne and Geelong",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 70 % and above\n2. ICSE : 70 % and above\n3. State Board: 70% and above (Punjab and Haryana Not Accepted)\n4. IB: 27 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -52%\nb) University: Section 2 - 55%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Degree Duration: 3 year course\nBacklogs:  8\n\nDegree Duration: 4 year course\nBacklogs:  12"
+    }
+  },
+  {
+    "_id": "univ_aus_011",
+    "canonical_name": "University of Tasmania",
+    "original_names": [
+      "University of Tasmania"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Hobart and Launceston",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 65% and above (Punjab and Haryana 80% & above)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "15 Backlogs"
+    }
+  },
+  {
+    "_id": "univ_aus_012",
+    "canonical_name": "Griffith University",
+    "original_names": [
+      "Griffith University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Gold Coast & Nathan",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 65% and above (Change of board to Punjab/Haryana State Board is not accepted)\n4. IB: 26 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "18 to 20 Backlogs"
+    }
+  },
+  {
+    "_id": "univ_aus_013",
+    "canonical_name": "James Cook University, Townswille & Cairns",
+    "original_names": [
+      "James Cook University, Townswille & Cairns"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Townswille|Cairns",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 60 % and above\n2. ICSE : 60 % and above\n3. State Board: 65% and above (Punjab and Haryana Not Accepted)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "12 - 15"
+    }
+  },
+  {
+    "_id": "univ_aus_014",
+    "canonical_name": "James Cook University, Brisbane",
+    "original_names": [
+      "James Cook University, Brisbane"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Brisbane",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 60 % and above\n2. ICSE : 60 % and above\n3. State Board: 65% and above (Punjab and Haryana Not Accepted)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Upto 20"
+    }
+  },
+  {
+    "_id": "univ_aus_015",
+    "canonical_name": "Swinburne University of Technology",
+    "original_names": [
+      "Swinburne University of Technology"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 70% and above Punjab State Board 80 (Haryana Not Accepted)\n4. IB: 26 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "\n1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 60%\nb) University: Section 2 - 65%\nc) University: Section 3 - 65%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.\n\nAge limit for master’s is 30 yrs (From High Risk)\n\nDouble master’s and Married cases are not Acceptable from High Risk Region, from low risk region they’ll accept the students .  ",
+      "Accepted Backlogs": "12 backlogs, irrespective of the duration of the degree"
+    }
+  },
+  {
+    "_id": "univ_aus_016",
+    "canonical_name": "La Trobe University",
+    "original_names": [
+      "La Trobe University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 60 % and above\n2. ICSE : 60 % and above\n3. State Board: 65% and above (Punjab and Haryana Not Accepted)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -50%\nb) University: Section 2 - 50%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "4 years degree : 15 (including absent and repeats)\n3 years degree : 10 (including absent and repeats)"
+    }
+  },
+  {
+    "_id": "univ_aus_017",
+    "canonical_name": "Flinders University",
+    "original_names": [
+      "Flinders University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Adelaide",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 70% and above (Punjab and Haryana Accepted on Case by Case basis)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "8 for a 3 year course and 12 for a 4 year course"
+    }
+  },
+  {
+    "_id": "univ_aus_018",
+    "canonical_name": "CQUniversity",
+    "original_names": [
+      "CQUniversity"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Adelaide\nBrisbane\nBundaberg\nCairns\nGladstone\nMackay\nMelbourne\nPerth\nRockhampton\nSydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 65% and above (Punjab and Haryana Accepted on Case by Case basis)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Flexible, but should have completed the course in the actual duration of the course (may accept profiles with degree completed in more than stipulated time on case to case basis) 20-25 Backlogs"
+    }
+  },
+  {
+    "_id": "univ_aus_019",
+    "canonical_name": "University of Technology, Sydney",
+    "original_names": [
+      "University of Technology, Sydney"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Kindly refer the UTS UG Guide available on below path:\n\nhttps://kcoverseaseducation.sharepoint.com/sites/TeamAustralia/Shared Documents/Application Guide New/University Information Sheet/UTS\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "Kindly refer the UTS PG Guide available on below path:\n\nhttps://kcoverseaseducation.sharepoint.com/sites/TeamAustralia/Shared Documents/Application Guide New/University Information Sheet/UTS\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "25% of the total academic subjects"
+    }
+  },
+  {
+    "_id": "univ_aus_020",
+    "canonical_name": "University of Wollongong",
+    "original_names": [
+      "University of Wollongong"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Wollongong",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Not accepting applications for bachelors.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 -55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Total backlogs including attempts should not exceed 15"
+    }
+  },
+  {
+    "_id": "univ_aus_021",
+    "canonical_name": "Charles Darwin University",
+    "original_names": [
+      "Charles Darwin University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Danala\nAlice Springs\nCasuarina\nSydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Require 60% from CBSE/CISCE board and 65% from State Board\n\nFor Punjab and Haryana - require 75% from CBSE/CISCE and 85% from State Board\n\nPlease search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 60%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "20 Backlogs accpeted and no more extendeed period of studies will accept"
+    }
+  },
+  {
+    "_id": "univ_aus_022",
+    "canonical_name": "Murdoch University",
+    "original_names": [
+      "Murdoch University"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Perth",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 65 % and above\n2. ICSE : 65 % and above\n3. State Board: 70% and above \n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "10 for a 3 year course and 12 for a 4 year course  (extended degree not accepted)"
+    }
+  },
+  {
+    "_id": "univ_aus_023",
+    "canonical_name": "University of Sunshine Coast",
+    "original_names": [
+      "University of Sunshine Coast"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sunshine Coast,\nMoreton Bay,\nCaboolture,\nFraser Coast,\nGympie",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. CBSE: 60 % and above\n2. ICSE : 60 % and above\n3. State Board: 65% and above (Punjab & Haryana State Board - 70% and above)\n4. IB: 24 & above\n\nNote: Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Academic Requirements for PG": "University follows NOOSR Guidelines\n\nAll Section - 50% and above",
+      "Accepted Backlogs": "15 for 3 & 4 year degree"
+    }
+  },
+  {
+    "_id": "univ_aus_024",
+    "canonical_name": "Analytics Institute Of Australia",
+    "original_names": [
+      "Analytics Institute Of Australia"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Melbourne",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "1. Undergraduate coursework requires below percentile depending on the course opted by the applicants.\n\na) Bachelor of Analytics: \n\n- High School completion\n- Year 12 Transcript: 60% weighted mark in English score and 40% weighted mark in Math score\n- ATAR score (equivalent to 60 ATAR in Australia) in India high school transcript: 70% of the best 5 subjects\n\nb) Bachelor of Business Transformation:\n\n- High School completion\n- Year 12 Transcript: 60% weighted mark in English score (no math score required)\n- ATAR score (equivalent to 60 ATAR in Australia) in India high school transcript: 70% of the best 5 subjects\n",
+      "Academic Requirements for PG": "Section 1: 55%",
+      "Accepted Backlogs": "5"
+    }
+  },
+  {
+    "_id": "univ_aus_025",
+    "canonical_name": "Kaplan Business School ",
+    "original_names": [
+      "Kaplan Business School "
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney\nMelbourne\nBrisbane\nPerth\nAdelaide",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Not accepting applications for bachelors.",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "8-12 Backlogs"
+    }
+  },
+  {
+    "_id": "univ_aus_026",
+    "canonical_name": "The University of Notre Dame",
+    "original_names": [
+      "The University of Notre Dame"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Perth\nSydney",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "ISCE/ CBSE-\nTier 1 Programme- 65% Overall for best of 4 academic subjects\n\nTier 2 Programme- 75% Overall for best of 4 academic subjects\n\nTier 3 Programme- 80% Overall for best of 4 academic subjects\n\nState Board- (Except Punjab State Board)\n\nTier 1 Programme- 70% Overall for best of 5 academic subjects\n\nTier 2 Programme- 80% Overall for best of 5 academic subjects\n\nTier 3 Programme- 85% Overall for best of 5 academic subjects\n\n( One year gap excepted)\n",
+      "Academic Requirements for PG": "1. Postgraduate coursework requires below percentile as per applicants last prior qualification completion with regards to university and section:\n\na) University: Section 1 - 55%\nb) University: Section 2 - 60%\nc) University: Section 3 - 60%\n\n2. Please search coursework mentioned in the course finder to get exact and updated requirements.",
+      "Accepted Backlogs": "Flexible"
+    }
+  },
+  {
+    "_id": "univ_aus_027",
+    "canonical_name": "Le Cordon Bleu",
+    "original_names": [
+      "Le Cordon Bleu"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Adelaide\nSydney\nMelbourne\nPerth",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Diploma/ Certificate: \n\nCBSE| ICSE: Minimum 60%\n\nState Board: Minimum 70%\n\nIELTS: 6 overall no band less than 5.5",
+      "Academic Requirements for PG": "Please search coursework mentioned in the course finder to get exact and updated requirements\n\nSection 1- 55%\n\nSection 2- 60%\n\nSection 3- 65%",
+      "Accepted Backlogs": "8"
+    }
+  },
+  {
+    "_id": "univ_aus_028",
+    "canonical_name": "Engineering Institute of Technology",
+    "original_names": [
+      "Engineering Institute of Technology"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Perth\nMelbourne\nBrisbane",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "CBSE| ICSE: Minimum 60%\n\nState Board: Minimum 70%",
+      "Academic Requirements for PG": "Please search coursework mentioned in the course finder to get exact and updated requirements\n\nSection 1- 55%\n\nSection 2- 60%\n\nSection 3- 65%",
+      "Accepted Backlogs": "8"
+    }
+  },
+  {
+    "_id": "univ_aus_029",
+    "canonical_name": "Excelsia College",
+    "original_names": [
+      "Excelsia College"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney ",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "CBSE| ICSE: Minimum 60%\n\nState Board: Minimum 70%\n\nIELTS: 6 overall no band less than 6",
+      "Academic Requirements for PG": "Please search coursework mentioned in the course finder to get exact and updated requirements\n\nSection 1- 55%\n\nSection 2- 60%\n\nSection 3- 65%\n",
+      "Accepted Backlogs": "8"
+    }
+  },
+  {
+    "_id": "univ_aus_030",
+    "canonical_name": "Ironwood Institute Adelaide",
+    "original_names": [
+      "Ironwood Institute Adelaide"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Adelaide ",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Diploma: Year 12 with minimum 60%",
+      "Academic Requirements for PG": null,
+      "Accepted Backlogs": null
+    }
+  },
+  {
+    "_id": "univ_aus_031",
+    "canonical_name": "UNSW College",
+    "original_names": [
+      "UNSW College"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Sydney ",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Diploma: 12th year with minimum \n\nCBSE| CISE: 65%\n\nState Board:\nCategory A: MH| TN| Delhi| GJ| WB| Bihar| UP| Karnataka| KL| MP| North East| Telangana| Goa- 75%\n\nCategory B: Chandigargh| Rajasthan| J &K| HP- 85%",
+      "Academic Requirements for PG": "Pre Masters:\n\nIT : Mininmum 50% in STEM discipline\n\nEngineering: Mininmum 50% in 4 year duration degree.",
+      "Accepted Backlogs": null
+    }
+  },
+  {
+    "_id": "univ_aus_032",
+    "canonical_name": "The University of Newcastle College of International Education",
+    "original_names": [
+      "The University of Newcastle College of International Education"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Newcastle",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "ISC or CBSE Year 12 with 52% across 4 academic subjects, or India State Board Year 12 with 57% across 4 academic subjects",
+      "Academic Requirements for PG": null,
+      "Accepted Backlogs": null
+    }
+  },
+  {
+    "_id": "univ_aus_033",
+    "canonical_name": "INTO (UWA)",
+    "original_names": [
+      "INTO (UWA)"
+    ],
+    "Country": "Australia",
+    "University Website URL": null,
+    "Campus Location/s": "Perth",
+    "Common Academic Requirements": {
+      "Academic Requirements for UG": "Diploma: \n\nYear 12 from Maharashtra, Tamil Nadu, Karnataka, Kerala or West Bengal with 60% (best 4 relevant academic subjects) \n\nYear 12 from other state Boards 65% (best 4 relevant academic subjects)\n\nYear 12, ISC or CBSE with 60% (best 4 relevant academic subjects)",
+      "Academic Requirements for PG": null,
+      "Accepted Backlogs": null
+    }
+  }
+]
