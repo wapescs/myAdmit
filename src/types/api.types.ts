@@ -1,8 +1,10 @@
 export interface PaginationMeta {
-  page: number;
-  limit: number;
-  total: number;
+  totalRecords: number;
   totalPages: number;
+  currentPage: number;
+  pageSize: number;
+  hasNextPage: boolean;
+  hasPreviousPage: boolean;
 }
 
 export interface PaginatedResult<T> {
@@ -13,13 +15,17 @@ export interface PaginatedResult<T> {
 export interface ApiSuccessResponse<T> {
   success: true;
   data: T;
+  message: string;
+  meta?: PaginationMeta;
 }
 
 export interface ApiErrorResponse {
   success: false;
+  data: null;
+  message: string;
   error: {
-    message: string;
     code?: string;
+    details?: unknown;
   };
 }
 

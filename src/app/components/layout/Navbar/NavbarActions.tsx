@@ -1,8 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { Search, Bell, Moon, Sun, User } from "lucide-react";
+import { Search, Bell, User } from "lucide-react";
 import { Btn } from "@/app/components/common/Btn";
+import { AnimatedThemeToggler } from "@/components/ui/animated-theme-toggler";
 import { useUserState } from "@/app/providers/UserStateProvider";
 import { useTheme } from "@/app/providers/ThemeProvider";
 import { useAccess } from "@/lib/access/AccessProvider";
@@ -21,9 +22,11 @@ export function NavbarActions() {
           <span className="absolute top-2 right-2 w-1.5 h-1.5 bg-[#8B2626] rounded-full" />
         </button>
       )}
-      <button onClick={toggleTheme} className="p-2 rounded-xl text-[#666666] hover:text-[#333333] hover:bg-black/5 transition-all">
-        {isDark ? <Sun size={18} /> : <Moon size={18} />}
-      </button>
+      <AnimatedThemeToggler
+        theme={isDark ? "dark" : "light"}
+        onThemeChange={toggleTheme}
+        className="p-2 rounded-xl text-[#666666] hover:text-[#333333] hover:bg-black/5 transition-all [&_svg]:w-[18px] [&_svg]:h-[18px]"
+      />
       {userState === "anonymous" ? (
         <>
           <button onClick={openLoginModal} className="px-4 py-2 text-sm font-medium text-[#333333] hover:text-[#8B2626] transition-colors">Login</button>

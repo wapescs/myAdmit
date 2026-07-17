@@ -4,13 +4,16 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
 import { NAV_LINKS } from "@/constants/navigation";
+import { AnimatedThemeToggler } from "@/components/ui/animated-theme-toggler";
 import { useUserState } from "@/app/providers/UserStateProvider";
+import { useTheme } from "@/app/providers/ThemeProvider";
 import { useAccess } from "@/lib/access/AccessProvider";
 
 export function NavMobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
   const pathname = usePathname();
   const { userState } = useUserState();
   const { openLoginModal } = useAccess();
+  const { isDark, toggleTheme } = useTheme();
 
   return (
     <AnimatePresence>
@@ -26,7 +29,12 @@ export function NavMobileMenu({ open, onClose }: { open: boolean; onClose: () =>
                 {n.label}
               </Link>
             ))}
-            <div className="pt-3 border-t border-[#E8DDD0] flex flex-col gap-2">
+            <div className="pt-3 border-t border-[#E8DDD0] dark:border-white/10 flex flex-col gap-2">
+              <AnimatedThemeToggler
+                theme={isDark ? "dark" : "light"}
+                onThemeChange={toggleTheme}
+                className="w-full flex items-center justify-center gap-2 py-3 text-sm font-semibold text-[#333333] dark:text-[#F5EDE0] border border-[#E8DDD0] dark:border-white/10 rounded-xl hover:bg-[#FAF6EE] dark:hover:bg-white/5 transition-all [&_svg]:w-[16px] [&_svg]:h-[16px]"
+              />
               {userState === "anonymous" ? (
                 <>
                   <button onClick={() => { openLoginModal(); onClose(); }} className="w-full py-3 text-sm font-semibold text-[#333333] border border-[#E8DDD0] rounded-xl hover:bg-[#FAF6EE]">Login</button>
