@@ -121,7 +121,7 @@ export function CountriesSection() {
                 {country.name}
               </h3>
 
-              <div className="mt-5 space-y-2.5">
+              {/* <div className="mt-5 space-y-2.5">
 
                 <div className="flex items-center justify-between text-xs bg-[#FAF6EE] dark:bg-[#2E1A12] rounded-xl px-3 py-2">
                   <span className="flex items-center gap-1.5 text-[#999]">
@@ -153,7 +153,7 @@ export function CountriesSection() {
                   </span>
                 </div>
 
-              </div>
+              </div> */}
 
             </motion.div>
 

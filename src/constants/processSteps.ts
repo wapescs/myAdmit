@@ -1,4 +1,4 @@
-import { User, Bot, Calendar, GraduationCap, FileText, Shield, Globe } from "lucide-react";
+import { User, Bot, Calendar, GraduationCap, FileText, Shield, Globe, Banknote } from "lucide-react";
 import type { ProcessStep } from "@/types/process.types";
 
 export const PROCESS_STEPS: ProcessStep[] = [
@@ -7,6 +7,7 @@ export const PROCESS_STEPS: ProcessStep[] = [
   { step: 3, title: "Book Counselor", desc: "Schedule a 1-on-1 session with a certified education counselor", icon: Calendar },
   { step: 4, title: "Shortlist Universities", desc: "Receive a personalized list of dream, reach, and safe universities", icon: GraduationCap },
   { step: 5, title: "Submit Applications", desc: "Get expert help crafting SOPs, LORs, and application forms", icon: FileText },
-  { step: 6, title: "Visa Guidance", desc: "Complete visa documentation with expert guidance and mock interviews", icon: Shield },
-  { step: 7, title: "Fly Abroad", desc: "Pre-departure briefing and alumni connect in your destination", icon: Globe },
+  { step: 6, title: "Financial Guidance", desc: "Get expert guidance on funding your education scholarships, loans, and grants", icon: Banknote },
+  { step: 7, title: "Visa Guidance", desc: "Complete visa documentation with expert guidance and mock interviews", icon: Shield },
+  { step: 8, title: "Fly Abroad", desc: "Pre-departure briefing and alumni connect in your destination", icon: Globe },
 ];

@@ -2,10 +2,17 @@
 
 import { useState } from "react";
 import { motion } from "motion/react";
-import { Search, ChevronDown, Filter } from "lucide-react";
+import { Search, Filter } from "lucide-react";
 import { Btn } from "@/app/components/common/Btn";
 import { serif } from "@/styles/typography";
 import { SEARCH_COUNTRY_OPTIONS, SEARCH_COURSE_OPTIONS, SEARCH_BUDGET_OPTIONS, SEARCH_POPULAR_TAGS } from "@/constants/home";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 
 export function SearchSection() {
   const [query, setQuery] = useState("");
@@ -38,13 +45,14 @@ export function SearchSection() {
           <div className="flex flex-wrap gap-2 items-center justify-between">
             <div className="flex flex-wrap gap-2">
               {filters.map(f => (
-                <div key={f.label} className="relative">
-                  <select value={f.val} onChange={e => f.set(e.target.value)}
-                    className="appearance-none pl-4 pr-8 py-2.5 bg-[#FAF6EE] dark:bg-[#2E1A12] border border-[#E8DDD0] dark:border-white/10 rounded-xl text-sm text-[#333333] dark:text-[#F5EDE0] focus:outline-none cursor-pointer">
-                    {f.opts.map(o => <option key={o}>{o}</option>)}
-                  </select>
-                  <ChevronDown size={13} className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[#999] pointer-events-none" />
-                </div>
+                <Select key={f.label} value={f.val} onValueChange={(v) => { if (v !== null) f.set(v); }}>
+                  <SelectTrigger size="sm">
+                    <SelectValue />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {f.opts.map(o => <SelectItem key={o} value={o}>{o}</SelectItem>)}
+                  </SelectContent>
+                </Select>
               ))}
               <button className="flex items-center gap-1.5 pl-4 pr-3 py-2.5 bg-[#FAF6EE] dark:bg-[#2E1A12] border border-[#E8DDD0] rounded-xl text-sm text-[#333333] hover:border-[#8B2626]/40 transition-all">
                 <Filter size={13} />More Filters

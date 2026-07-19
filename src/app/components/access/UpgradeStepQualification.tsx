@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 import { Input } from "@/app/components/ui/input";
 import { Label } from "@/app/components/ui/label";
 import { Checkbox } from "@/app/components/ui/checkbox";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/app/components/ui/select";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Btn } from "@/app/components/common/Btn";
 import { useAccess } from "@/lib/access/AccessProvider";
 import {
@@ -27,7 +27,7 @@ function Field({ label, children }: { label: string; children: ReactNode }) {
 
 function MarkSchemeSelect({ value, onChange }: { value: string; onChange: (v: string) => void }) {
   return (
-    <Select value={value} onValueChange={onChange}>
+    <Select value={value} onValueChange={(v) => { if (v !== null) onChange(v); }}>
       <SelectTrigger>
         <SelectValue />
       </SelectTrigger>

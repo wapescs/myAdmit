@@ -33,18 +33,18 @@ export function AIAdvisorShowcase() {
           </div>
         </div>
       </div>
-      <motion.div animate={{ y: [0, -10, 0] }} transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut" }}
+      {/* <motion.div animate={{ y: [0, -10, 0] }} transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut" }}
         className="absolute -right-5 top-10 bg-white rounded-2xl p-4 shadow-xl border border-[#E8DDD0] w-44">
         <div className="text-[10px] text-[#999] mb-0.5">Acceptance Probability</div>
         <div className="text-2xl font-bold text-[#2E7D32]" style={serif}>78%</div>
         <div className="text-xs text-[#333333]">University of Toronto</div>
-      </motion.div>
-      <motion.div animate={{ y: [0, 10, 0] }} transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut", delay: 1.2 }}
+      </motion.div> */}
+      {/* <motion.div animate={{ y: [0, 10, 0] }} transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut", delay: 1.2 }}
         className="absolute -left-5 bottom-16 bg-white rounded-2xl p-4 shadow-xl border border-[#E8DDD0] w-44">
         <div className="text-[10px] text-[#999] mb-0.5">Scholarship Found</div>
         <div className="text-2xl font-bold text-[#CFA56A]" style={serif}>$24K</div>
         <div className="text-xs text-[#333333]">Available for you</div>
-      </motion.div>
+      </motion.div> */}
     </motion.div>
   );
 }

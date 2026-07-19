@@ -11,9 +11,9 @@ export function HomePage() {
   return (
     <>
       <HeroSection />
+      <CountriesSection />
       <SearchSection />
       <FeaturedUniversities />
-      <CountriesSection />
       <AIAdvisorSection />
       <TestimonialsSection />
       <ProcessSection />
