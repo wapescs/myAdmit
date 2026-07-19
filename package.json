@@ -95,5 +95,10 @@
     "react-dom": {
       "optional": true
     }
+  },
+  "overrides": {
+    "@base-ui/react": {
+      "date-fns": "$date-fns"
+    }
   }
 }
