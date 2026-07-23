@@ -48,10 +48,7 @@ export function UniversityCard({
             <div className="text-xs font-bold text-[#333333] dark:text-[#F5EDE0]">{uni.acceptanceRate}</div>
           </div>
         </div>
-        <div className="flex gap-2">
-          <button onClick={onView} className="flex-1 py-2.5 text-xs font-bold text-white bg-[#8B2626] rounded-xl hover:bg-[#6E1E1E] transition-all">View Details</button>
-          <button onClick={e => e.stopPropagation()} className="px-3 py-2.5 text-xs font-semibold text-[#8B2626] border border-[#8B2626]/25 rounded-xl hover:bg-[#8B2626]/5 transition-all">Compare</button>
-        </div>
+        <button onClick={onView} className="w-full py-2.5 text-xs font-bold text-white bg-[#8B2626] rounded-xl hover:bg-[#6E1E1E] transition-all">View Details</button>
       </div>
     </motion.div>
   );

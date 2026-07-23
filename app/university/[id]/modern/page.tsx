@@ -1,10 +1,10 @@
-import { UniversityDetailPage } from "@/app/components/university-detail/UniversityDetailPage";
+import { UniversityDetailModern } from "@/app/components/university-detail-modern/UniversityDetailModern";
 import { FeatureGate } from "@/app/components/access/FeatureGate";
 
 export default function Page({ params }: { params: { id: string } }) {
   return (
     <FeatureGate requires="email" featureName="University Details">
-      <UniversityDetailPage id={params.id} />
+      <UniversityDetailModern id={params.id} />
     </FeatureGate>
   );
 }

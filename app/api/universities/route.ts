@@ -31,11 +31,11 @@ import { listUniversities } from "@/features/universities/controller/university.
  *         schema: { type: string, enum: [asc, desc] }
  *       - in: query
  *         name: fields
- *         description: Comma-separated allow-list of top-level response fields (id, name, country, websiteUrl, campusLocations)
+ *         description: Comma-separated list of top-level fields to return. Any field name present on the source record is accepted (e.g. _id, canonical_name, original_names, Country, University Website URL, Campus Location/s, Common Academic Requirements) — the response has no fixed schema, so unknown names are just omitted rather than rejected. Omit this param to get every field.
  *         schema: { type: string }
  *     responses:
  *       200:
- *         description: Paginated list of universities
+ *         description: Paginated list of universities, as raw source records (no rigid schema — whatever fields exist in the source data are returned as-is)
  *       304:
  *         description: Not modified (ETag match)
  *       400:

@@ -1,14 +1,14 @@
 "use client";
 
 import { DollarSign, TrendingUp, BookOpen, Award } from "lucide-react";
-import type { University } from "@/types/university.types";
+import type { UniversityDetail } from "@/types/university";
 
-export function UniversityQuickStats({ university }: { university: University }) {
+export function UniversityQuickStats({ university }: { university: UniversityDetail }) {
   const stats = [
-    { label: "Annual Tuition", value: university.tuition, icon: DollarSign },
-    { label: "Acceptance Rate", value: university.acceptanceRate, icon: TrendingUp },
-    { label: "IELTS Required", value: university.ieltsRequired, icon: BookOpen },
-    { label: "Scholarships", value: "Available", icon: Award },
+    { label: "Annual Tuition", value: university.tuition ?? "Not available", icon: DollarSign },
+    { label: "Acceptance Rate", value: university.acceptanceRate ?? "Not available", icon: TrendingUp },
+    { label: "IELTS Required", value: university.ieltsRequired ?? "Not available", icon: BookOpen },
+    { label: "Scholarships", value: university.scholarships ? "Available" : "Not available", icon: Award },
   ];
 
   return (

@@ -24,7 +24,7 @@ export function FeaturedUniversities() {
             <h2 className="text-3xl lg:text-4xl font-bold text-[#333333] dark:text-[#F5EDE0]" style={serif}>Featured Universities</h2>
             <p className="text-[#666666] mt-2">Handpicked institutions with excellent placement records</p>
           </div>
-          <Link href="/comparison" className="hidden md:flex items-center gap-1.5 text-sm font-semibold text-[#8B2626] hover:gap-3 transition-all">
+          <Link href="/universities" className="hidden md:flex items-center gap-1.5 text-sm font-semibold text-[#8B2626] hover:gap-3 transition-all">
             View All <ArrowRight size={16} />
           </Link>
         </div>

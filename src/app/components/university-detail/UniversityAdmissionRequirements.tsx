@@ -1,20 +1,32 @@
 "use client";
 
 import { serif } from "@/styles/typography";
-import { UNIVERSITY_ADMISSION_REQUIREMENTS } from "@/constants/universityDetail";
+import type { AcademicRequirements } from "@/types/university";
 
-export function UniversityAdmissionRequirements() {
+const LABELS: [keyof AcademicRequirements, string][] = [
+  ["ug", "Undergraduate"],
+  ["pg", "Postgraduate"],
+  ["acceptedBacklogs", "Accepted Backlogs"],
+];
+
+export function UniversityAdmissionRequirements({ academicRequirements }: { academicRequirements?: AcademicRequirements }) {
+  const rows = LABELS.filter(([key]) => academicRequirements?.[key]);
+
   return (
     <div className="bg-white dark:bg-[#241410] rounded-[24px] p-6 border border-[#E8DDD0] dark:border-white/8">
       <h2 className="font-bold text-[#333333] dark:text-[#F5EDE0] text-xl mb-4" style={serif}>Admission Requirements</h2>
-      <div className="space-y-0 divide-y divide-[#E8DDD0] dark:divide-white/8">
-        {UNIVERSITY_ADMISSION_REQUIREMENTS.map(([req, val]) => (
-          <div key={req} className="flex items-center justify-between py-3">
-            <span className="text-sm text-[#666666]">{req}</span>
-            <span className="text-sm font-bold text-[#333333] dark:text-[#F5EDE0] text-right ml-4">{val}</span>
-          </div>
-        ))}
-      </div>
+      {rows.length > 0 ? (
+        <div className="space-y-4">
+          {rows.map(([key, label]) => (
+            <div key={key}>
+              <div className="text-xs font-semibold text-[#8B2626] uppercase tracking-wide mb-1">{label}</div>
+              <p className="text-sm text-[#333333] dark:text-[#F5EDE0] leading-relaxed whitespace-pre-line">{academicRequirements?.[key]}</p>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p className="text-sm text-[#666666]">Admission requirements aren&apos;t available for this university yet.</p>
+      )}
     </div>
   );
 }

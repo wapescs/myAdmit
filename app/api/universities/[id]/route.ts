@@ -17,11 +17,11 @@ import { getUniversityById } from "@/features/universities/controller/university
  *         schema: { type: string }
  *       - in: query
  *         name: fields
- *         description: Comma-separated allow-list of top-level response fields
+ *         description: Comma-separated list of top-level fields to return. Any field name present on the source record is accepted — the response has no fixed schema. Omit this param to get every field.
  *         schema: { type: string }
  *     responses:
  *       200:
- *         description: University detail
+ *         description: University detail, as the raw source record merged with its raw country_specific_data (no rigid schema)
  *       304:
  *         description: Not modified (ETag match)
  *       404:

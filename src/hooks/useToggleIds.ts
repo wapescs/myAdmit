@@ -2,10 +2,10 @@
 
 import { useState } from "react";
 
-export function useToggleIds(initial: number[] = []) {
-  const [ids, setIds] = useState<number[]>(initial);
+export function useToggleIds<T = number>(initial: T[] = []) {
+  const [ids, setIds] = useState<T[]>(initial);
 
-  const toggle = (id: number) => {
+  const toggle = (id: T) => {
     setIds(prev => (prev.includes(id) ? prev.filter(x => x !== id) : [...prev, id]));
   };
 

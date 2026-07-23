@@ -191,7 +191,7 @@ export function HeroSection() {
               className="mt-10 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start"
             >
               <motion.div whileHover={{ scale: 1.035 }} whileTap={{ scale: 0.97 }} transition={{ type: "spring", stiffness: 400, damping: 17 }}>
-                <Link href="/comparison">
+                <Link href="/universities">
                   <Btn size="lg">
                     Find Universities <ArrowRight size={18} />
                   </Btn>
