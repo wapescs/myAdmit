@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { REGEXP_ONLY_DIGITS } from "input-otp";
 import { InputOTP, InputOTPGroup, InputOTPSlot } from "@/app/components/ui/input-otp";
 import { Btn } from "@/app/components/common/Btn";
 import { MOCK_OTP_HINT } from "@/lib/access";
@@ -34,7 +35,7 @@ export function OtpEntry({ destination, verify, onVerified, resend }: OtpEntryPr
         Enter the 6-digit code sent to <span className="font-semibold text-[#333333]">{destination}</span>
       </p>
 
-      <InputOTP maxLength={6} value={code} onChange={setCode}>
+      <InputOTP maxLength={6} value={code} onChange={setCode} pattern={REGEXP_ONLY_DIGITS}>
         <InputOTPGroup>
           {[0, 1, 2, 3, 4, 5].map((i) => (
             <InputOTPSlot key={i} index={i} />

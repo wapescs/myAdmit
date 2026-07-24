@@ -5,16 +5,26 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } f
 import { Input } from "@/app/components/ui/input";
 import { Btn } from "@/app/components/common/Btn";
 import { OtpEntry } from "./OtpEntry";
+import { OptionalPhoneVerifyStep } from "./OptionalPhoneVerifyStep";
 import { useAccess } from "@/lib/access/AccessProvider";
 import { serif } from "@/styles/typography";
 
-type Step = "choose" | "otp";
+type Step = "choose" | "otp" | "phone";
+
+const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+const STEP_COPY: Record<Step, { title: string; description: string }> = {
+  choose: { title: "Sign in to MyAdmit", description: "Create a free account to unlock the full platform." },
+  otp: { title: "Sign in to MyAdmit", description: "Create a free account to unlock the full platform." },
+  phone: { title: "One last thing", description: "Optional — verify your phone now, or do it later." },
+};
 
 export function EmailLoginModal() {
   const { isLoginModalOpen, closeLoginModal, loginWithGoogle, sendEmailOtp, verifyEmailOtp } = useAccess();
   const [step, setStep] = useState<Step>("choose");
   const [email, setEmail] = useState("");
   const [googleLoading, setGoogleLoading] = useState(false);
+  const [emailLoading, setEmailLoading] = useState(false);
 
   function handleOpenChange(open: boolean) {
     if (!open) {
@@ -22,26 +32,32 @@ export function EmailLoginModal() {
       setStep("choose");
       setEmail("");
       setGoogleLoading(false);
+      setEmailLoading(false);
     }
   }
 
   async function handleGoogle() {
     setGoogleLoading(true);
     await loginWithGoogle();
-    handleOpenChange(false);
+    setGoogleLoading(false);
+    setStep("phone");
   }
 
   async function handleSendOtp() {
+    setEmailLoading(true);
     await sendEmailOtp(email);
+    setEmailLoading(false);
     setStep("otp");
   }
+
+  const { title, description } = STEP_COPY[step];
 
   return (
     <Dialog open={isLoginModalOpen} onOpenChange={handleOpenChange}>
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
-          <DialogTitle style={serif}>Sign in to MyAdmit</DialogTitle>
-          <DialogDescription>Create a free account to unlock the full platform.</DialogDescription>
+          <DialogTitle style={serif}>{title}</DialogTitle>
+          <DialogDescription>{description}</DialogDescription>
         </DialogHeader>
 
         {step === "choose" && (
@@ -62,8 +78,13 @@ export function EmailLoginModal() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
-            <Btn variant="secondary" onClick={handleSendOtp} disabled={!email.includes("@")} className="w-full">
-              Continue with Email
+            <Btn
+              variant="secondary"
+              onClick={handleSendOtp}
+              disabled={!EMAIL_PATTERN.test(email) || emailLoading}
+              className="w-full"
+            >
+              {emailLoading ? "Sending..." : "Continue with Email"}
             </Btn>
           </div>
         )}
@@ -72,10 +93,12 @@ export function EmailLoginModal() {
           <OtpEntry
             destination={email}
             verify={(code) => verifyEmailOtp(email, code)}
-            onVerified={() => handleOpenChange(false)}
+            onVerified={() => setStep("phone")}
             resend={() => sendEmailOtp(email)}
           />
         )}
+
+        {step === "phone" && <OptionalPhoneVerifyStep onDone={() => handleOpenChange(false)} />}
       </DialogContent>
     </Dialog>
   );

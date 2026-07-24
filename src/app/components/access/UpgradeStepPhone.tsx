@@ -1,37 +1,41 @@
 "use client";
 
 import { useState } from "react";
-import { Input } from "@/app/components/ui/input";
 import { Btn } from "@/app/components/common/Btn";
 import { OtpEntry } from "./OtpEntry";
+import { PhoneNumberField } from "./PhoneNumberField";
 import { useAccess } from "@/lib/access/AccessProvider";
+import { EMPTY_PHONE_VALUE, isValidPhoneValue, toE164, type PhoneFieldValue } from "@/constants/phoneCountryCodes";
 
 export function UpgradeStepPhone({ onVerified }: { onVerified: () => void }) {
   const { sendPhoneOtp, verifyPhoneOtp } = useAccess();
-  const [phone, setPhone] = useState("");
+  const [phone, setPhone] = useState<PhoneFieldValue>(EMPTY_PHONE_VALUE);
   const [otpSent, setOtpSent] = useState(false);
+  const [sending, setSending] = useState(false);
 
   async function handleSendOtp() {
-    await sendPhoneOtp(phone);
+    setSending(true);
+    await sendPhoneOtp(toE164(phone));
+    setSending(false);
     setOtpSent(true);
   }
 
   if (otpSent) {
     return (
       <OtpEntry
-        destination={phone}
-        verify={(code) => verifyPhoneOtp(phone, code)}
+        destination={toE164(phone)}
+        verify={(code) => verifyPhoneOtp(toE164(phone), code)}
         onVerified={onVerified}
-        resend={() => sendPhoneOtp(phone)}
+        resend={() => sendPhoneOtp(toE164(phone))}
       />
     );
   }
 
   return (
     <div className="space-y-3">
-      <Input type="tel" placeholder="+91 98765 43210" value={phone} onChange={(e) => setPhone(e.target.value)} />
-      <Btn onClick={handleSendOtp} disabled={phone.trim().length < 8} className="w-full">
-        Send OTP
+      <PhoneNumberField value={phone} onChange={setPhone} disabled={sending} />
+      <Btn onClick={handleSendOtp} disabled={!isValidPhoneValue(phone) || sending} className="w-full">
+        {sending ? "Sending..." : "Send OTP"}
       </Btn>
     </div>
   );
